@@ -8,22 +8,22 @@ Deadlines are staggered 2 days apart, starting 2026-09-24.
 
 | Done | # | Topic | Phases | Course | Cert? | Price | Time | Deadline |
 |:---:|:---:|---|:---:|---|:---:|---:|---:|---|
-| ☐ | 1 | Python, NumPy/Pandas, EDA | 1, 2 | Kaggle: Python + Pandas + Data Visualization | Free | ₹0 | 6d | 2026-09-24 |
-| ☐ | 2 | Math for ML *(NEW)* | 3 | freeCodeCamp: College Algebra + 3Blue1Brown: Linear Algebra | Free/None | ₹0 | 5d | 2026-09-26 |
-| ☐ | 3 | Classical ML fundamentals | 4, 5 | Kaggle: Intro to ML + Intermediate ML | Free | ₹0 | 3d | 2026-09-28 |
-| ☐ | 4 | Neural nets + PyTorch | 6, 7 | Kaggle: Intro to Deep Learning + Udemy: PyTorch (Bourke) | Both | ₹549 | 18d | 2026-09-30 |
-| ☐ | 5 | Async Python, Pydantic, FastAPI | 1 adv. | Udemy: Complete FastAPI Course with OAuth & JWT | Yes | ₹549 | 2d | 2026-10-02 |
-| ☐ | 6 | Transformers, tokenization, embeddings, LLMs | 8–11 | Hugging Face: LLM Course | Chapter certs | ₹0 | 6d | 2026-10-04 |
-| ☐ | 7 | Fine-tuning + inference/serving | 38–41 | HF: smol-course + DL.AI: Fast & Efficient LLM Inference (vLLM) | Partial | ₹0 | 5d | 2026-10-06 |
-| ☐ | 8 | Prompt engineering, structured outputs, LLM APIs | 12–14 | Anthropic Academy: Claude Platform 101 + AI Fluency | Free | ₹0 | 3d | 2026-10-08 |
-| ☐ | 9 | LangChain + LangGraph *(NEW)* | 29 | DL.AI: LangChain for LLM App Dev + AI Agents in LangGraph | No free cert | ₹0 | 2d | 2026-10-10 |
-| ☐ | 10 | RAG — full stack | 15–22, 44 | Neo4j GraphAcademy: GenAI & RAG Certification | Free | ₹0 | 4d | 2026-10-12 |
-| ☐ | 11 | Agents — full stack | 23–27, 30, 31, 33 | Hugging Face: AI Agents Course | Free (2 certs) | ₹0 | 8d | 2026-10-14 |
-| ☐ | 12 | MCP + agent reliability | 28, 32 | Hugging Face: MCP Course | Free | ₹0 | 3d | 2026-10-16 |
-| ☐ | 13 | Multimodal AI *(NEW)* | 42 | HF: Audio Course + HF: Community CV Course | Free | ₹0 | 4d | 2026-10-18 |
-| ☐ | 14 | LLMOps, observability, eval, cost/latency *(NEW)* | 34, 35, 43, 45–47 | DL.AI: Evaluating & Debugging GenAI (W&B) + LLMOps + Langfuse docs | No free cert | ₹0 | 4d | 2026-10-20 |
-| ☐ | 15 | Docker, Kubernetes, Cloud/GPU | 48–50 | KodeKloud: Docker + K8s + AWS Skill Builder: Cloud Practitioner | Free | ₹0 | 5d | 2026-10-22 |
-| ☐ | 16 | AI security, distributed systems, research, capstone | 36, 37, 51–53 | OWASP LLM Top 10 + Papers With Code + capstone build | None (capstone) | ₹0 | 6d | 2026-10-24 |
+| ☐ | 1 | Python, NumPy/Pandas, EDA | 1, 2 | Kaggle: [Python](https://www.kaggle.com/learn/python) + [Pandas](https://www.kaggle.com/learn/pandas) + [Data Visualization](https://www.kaggle.com/learn/data-visualization) | Free | ₹0 | 6d | 2026-09-24 |
+| ☐ | 2 | Math for ML *(NEW)* | 3 | [freeCodeCamp: College Algebra with Python](https://www.freecodecamp.org/learn/college-algebra-with-python/) + [3Blue1Brown: Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Free/None | ₹0 | 5d | 2026-09-26 |
+| ☐ | 3 | Classical ML fundamentals | 4, 5 | Kaggle: [Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning) + [Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning) | Free | ₹0 | 3d | 2026-09-28 |
+| ☐ | 4 | Neural nets + PyTorch | 6, 7 | Kaggle: [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) + Udemy: [PyTorch for Deep Learning (Bourke)](https://www.udemy.com/course/pytorch-for-deep-learning/) | Both | ₹549 | 18d | 2026-09-30 |
+| ☐ | 5 | Async Python, Pydantic, FastAPI | 1 adv. | Udemy: [Complete FastAPI Course with OAuth & JWT](https://www.udemy.com/course/fastapi-course-python/) | Yes | ₹549 | 2d | 2026-10-02 |
+| ☐ | 6 | Transformers, tokenization, embeddings, LLMs | 8–11 | Hugging Face: [LLM Course](https://huggingface.co/learn/llm-course) | Chapter certs | ₹0 | 6d | 2026-10-04 |
+| ☐ | 7 | Fine-tuning + inference/serving | 38–41 | HF: [smol-course](https://huggingface.co/learn/smol-course) + DL.AI: [Fast & Efficient LLM Inference with vLLM](https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm) | Partial | ₹0 | 5d | 2026-10-06 |
+| ☐ | 8 | Prompt engineering, structured outputs, LLM APIs | 12–14 | Anthropic Academy: [Claude Platform 101](https://academy.claude.com/courses/claude-platform-101) + [AI Fluency](https://anthropic.skilljar.com/ai-fluency-framework-foundations) | Free | ₹0 | 3d | 2026-10-08 |
+| ☐ | 9 | LangChain + LangGraph *(NEW)* | 29 | DL.AI: [LangChain for LLM App Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) + [AI Agents in LangGraph](https://www.deeplearning.ai/courses/ai-agents-in-langgraph) | No free cert | ₹0 | 2d | 2026-10-10 |
+| ☐ | 10 | RAG — full stack | 15–22, 44 | Neo4j GraphAcademy: [GenAI & RAG Certification](https://graphacademy.neo4j.com/certifications/genai-certification/) | Free | ₹0 | 4d | 2026-10-12 |
+| ☐ | 11 | Agents — full stack | 23–27, 30, 31, 33 | Hugging Face: [AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) | Free (2 certs) | ₹0 | 8d | 2026-10-14 |
+| ☐ | 12 | MCP + agent reliability | 28, 32 | Hugging Face: [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) | Free | ₹0 | 3d | 2026-10-16 |
+| ☐ | 13 | Multimodal AI *(NEW)* | 42 | HF: [Audio Course](https://huggingface.co/learn/audio-course) + [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course) | Free | ₹0 | 4d | 2026-10-18 |
+| ☐ | 14 | LLMOps, observability, eval, cost/latency *(NEW)* | 34, 35, 43, 45–47 | DL.AI: [Evaluating & Debugging GenAI (W&B)](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/) + [Langfuse docs](https://langfuse.com/docs) | No free cert | ₹0 | 4d | 2026-10-20 |
+| ☐ | 15 | Docker, Kubernetes, Cloud/GPU | 48–50 | KodeKloud: [Docker](https://kodekloud.com/courses/docker-for-the-absolute-beginner) + [Kubernetes](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on) + AWS: [Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) | Free | ₹0 | 5d | 2026-10-22 |
+| ☐ | 16 | AI security, distributed systems, research, capstone | 36, 37, 51–53 | [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/) + [Papers With Code](https://paperswithcode.com/) + capstone build | None (capstone) | ₹0 | 6d | 2026-10-24 |
 
 ## Step details
 
