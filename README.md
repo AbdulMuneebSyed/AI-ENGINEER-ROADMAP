@@ -1,4 +1,4 @@
-# AI Engineer Roadmap — Verified Course Path
+# AI Engineer Roadmap — Verified Certificate Course Path
 
 16 steps · all 53 phases covered · ~184 hours (~10–11 weeks at 2–3 hrs/day) · Total cost ≈ ₹1,098 (two Udemy courses at Indian pricing; everything else free with real certificates).
 
