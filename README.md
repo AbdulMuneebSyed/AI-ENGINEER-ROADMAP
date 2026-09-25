@@ -1,6 +1,6 @@
 # Target Track — AI Engineer (LLM Agents & RAG) Job
 
-A trimmed version of the [main roadmap](README.md), aimed at one job description: LangChain/LangGraph agents, RAG, evaluation, observability, MCP, FastAPI, Docker and cloud.
+A trimmed version of the main roadmap, aimed at one job description: LangChain/LangGraph agents, RAG, evaluation, observability, MCP, FastAPI, Docker and cloud.
 
 12 steps · ~45 days · Total cost ≈ ₹549 (one Udemy course; everything else free).
 
